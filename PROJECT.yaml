@@ -1,5 +1,6 @@
-id: 187135aa-4ba1-413e-8f7a-302e60483e67
 name: backup-dashboard
+project_scope: main
+project_type: standalone
 description: React + TypeScript + Vite
 tier: prototype
 lane: oss
@@ -9,5 +10,6 @@ stack: [typescript, react, convex, tailwind, vite]
 repo: "https://github.com/mxn2020/backup-dashboard"
 deploy_url: null
 last_active: 2026-02-25
-tags: []
-notes: 
+tags: [backup, dashboard, monitoring, data-protection, storage, admin, ops]
+notes: null
+id: 187135aa-4ba1-413e-8f7a-302e60483e67
