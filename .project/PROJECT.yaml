@@ -1,0 +1,16 @@
+name: backup-dashboard
+project_scope: main
+project_type: standalone
+description: Dashboard for managing and monitoring backup operations
+tier: prototype
+lane: open-source
+priority: medium
+oss: true
+stack: ["typescript", "react", "vite", "convex"]
+repo: "https://github.com/mxn2020/backup-dashboard"
+deploy_url: null
+last_active: 2026-03-11
+tags: ["backup-dashboard", "convex", "react", "open-source", "ai-tools"]
+notes: null
+id: null
+category: oss-tool
